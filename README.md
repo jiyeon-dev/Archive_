@@ -13,3 +13,8 @@
 - [11장 Suspense로 코드 분할하기](React_Hooks_In_Action/chapter-11.md)
 - [12장 데이터 읽어오기와 Suspense 통합하기](React_Hooks_In_Action/chapter-12.md)
 - [13장 useTransition, useDeferredValue, SuspenseList 연습과 실험](React_Hooks_In_Action/chapter-13.md)
+
+## 참고
+
+- 도서 : https://www.manning.com/books/react-hooks-in-action
+- 예제 코드 : https://github.com/jrlarsen/react-hooks-in-action
